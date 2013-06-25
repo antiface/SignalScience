@@ -92,5 +92,9 @@ Signal Science deals with signaling systems.
 * Partial differential equations
 * Calculus
 * Complex number
+* Physical sleuthing
+* The intelligence game
+* Denial and Deception (Maskirovka)
+* Signal Science
 
 ...more to come, work in progress...
