@@ -7,7 +7,8 @@ Signal Science deals with signaling systems.
 * Signalling Theory
 * Handicap Principle
 * Job market signalling model
-* Signalling games
+* Signalling game
+* Screening game
 * Honest Signals
 * Costly Signalling
 * Countersignalling
