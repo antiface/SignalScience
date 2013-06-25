@@ -17,6 +17,7 @@ Signal Science deals with signaling systems.
 * Truthful reporting
 * Deception, cheating
 * Small talk
+* Cheap talk
 * Sexual marketplace
 * Conspicuous consumption
 * Signal Detection Theory
