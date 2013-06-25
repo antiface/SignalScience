@@ -72,6 +72,7 @@ Signal Science deals with signaling systems.
 * Ambiguous signs, Obscure signs vs. Ecstatic signs
 * Psychological noise
 * Semantic noise
+* Sensory gating
 * Behavioral economics
 * Noise trader
 * Noise print
