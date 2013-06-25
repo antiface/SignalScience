@@ -24,6 +24,7 @@ Signal Science deals with signaling systems.
 * Animal Communication
 * Alarm Management
 * Risk management
+* Extreme value theory
 * Identification friend or foe (IFF)
 * SIGINT, MASINT
 * RADAR, SONAR, ultrasound
@@ -87,5 +88,9 @@ Signal Science deals with signaling systems.
 * Analog synthesis
 * Digital synthesis
 * Modulation
+* Wave equation
+* Partial differential equations
+* Calculus
+* Complex number
 
 ...more to come, work in progress...
