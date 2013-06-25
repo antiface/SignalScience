@@ -74,5 +74,17 @@ Signal Science deals with signaling systems.
 * Chemical signalling
 * Information foraging
 * Optimal foraging
+* Information theory
+* bits
+* Error correction
+* Channel capacity
+* Electrical engineering
+* Compression (signal, computing)
+* Continuous signals
+* Discrete signals
+* Quantization
+* Analog synthesis
+* Digital synthesis
+* Modulation
 
 ...more to come, work in progress...
