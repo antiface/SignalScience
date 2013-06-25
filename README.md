@@ -23,6 +23,10 @@ Signal Science deals with signaling systems.
 * Animal Communication
 * Alarm Management
 * Risk management
+* Identification friend or foe (IFF)
+* SIGINT, MASINT
+* RADAR, SONAR, ultrasound
+* Side-channel attack
 * d' (sensitivity index)
 * Signaling (economics)
 * Antiphase, phase cancellation
