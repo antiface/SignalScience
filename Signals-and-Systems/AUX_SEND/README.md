@@ -5,4 +5,4 @@ AUX_SEND
 * VALUE_CHAIN
 * THROUGHPUT
 * ITERATED PROCESSING => Successive application of function h(x) to signal x:
-*   h(h(h(h(x))));
+  * h(h(h(h(x))));
