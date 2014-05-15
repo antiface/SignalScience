@@ -1,4 +1,4 @@
-SignalScience
+SignalScience ![] (https://zenodo.org/badge/doi/10.5281/zenodo.9891.png)
 =============
 
 Signal Science deals with signaling systems.
