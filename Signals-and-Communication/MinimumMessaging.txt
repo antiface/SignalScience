@@ -22,3 +22,22 @@
 * This is the "default" state of any communication system.
 * There must, however, be an "alarum bell" => There has to be a special signal for EMERGENCIES.
 * Signals are costly and so we need to minimize their use.
+
+14:44 2014-12-11
+
+* In essence, when collaborating within a given group structure, messaging quickly becomes
+a kind of "scheduling optimization problem".
+* Collaboration is in itself an optimization problem.
+* What I find useful to remember is that humans exhibit both "bursty" behavior
+as well as slower, longer, more "long-tailed" behaviors/distributions.
+* In a group, you have moments when communications are more "bursty" in nature and form,
+such as when the group convenes to have a Meeting or Conference in "real-time".
+* Here everyone comes together and decisions are made, things are said, in a "bursty" manner.
+* There are other times, however, when people are mostly "doing their own thing",
+communications "slow" down and you get what I call the "Long-Tail of Analysis".
+* Now, with that being said, it is important to try to SYNCHRONIZE peoples and
+communications into BURSTY time-slots/distributions.
+* It's important to synchronize the BURSTS/bursty behaviors, because that's
+when you run the chance of getting the most WORK DONE (if doing work is what you prize).
+* Then in the more "latent" phases, people can mind their own bee's-wax and work in
+an ASYNCHRONOUS MODE (of the Heavy Tail/Long Tail).
