@@ -1,0 +1,17 @@
+14:27 2014-12-11
+
+* The idea is to have the least messaging possible within the organization.
+* Messages are costly and costs should be minimized within the communication system.
+* The default response to all incoming messages should be => NO RESPONSE.
+* It is a kind of "null hypothesis" =>
+        * i.e. "a general statement or default position that there is no relationship between two measured phenomena."
+        * Meaning => No Response is Required (by default).
+* Then what happens is with each incoming message, one needs to know =>
+      * Is it an Emergency? Yes/No.
+      * Is it Urgent? Yes/No.
+      * Does it Require a Response or Action? Yes/No.
+* So you start with the default of no response / no reaction, then do a kind of "Field Triage" accordingly.
+
+14:31 2014-12-11
+
+* 
