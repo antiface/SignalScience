@@ -1,0 +1,32 @@
+13:22 2014-12-11
+
+I have a simple scheme that might be useful in what I call the Triage process with regard to general Messaging within the group.
+
+Basically, it is what one could call a "Fast-and-Frugal Tree" type heuristic, similar to what first responders might use as a "Field Triage" protocol.
+
+This one is simple. Before sending a message, I ask myself:
+
+* Does it require a response? Yes/No.
+* Is it an Emergency, i.e. Urgent, Requires Immediate Response? Yes/No.
+* Is it Urgent? Yes/No.
+* Urgent Requiring Action or Urgent Not Requiring Action? Yes/No.
+* Does it Require a Response?
+
+There are many variations that I use.. In one form, I include "Signals Requiring Action + Other Resources" where I stipulate/specify the Resource Type(s) + Amount(s) + it has a "Prepare For Worst Case" mark on it..
+
+I also have a category called Relay which is "Signals Requiring Other Signals", like "Requiring To Contact Other People" which then has the questions, Does it Require a Response? Does it Require an Action? Is it Urgent? + Specify Time Frame.
+
+I mean this is a rather elaborate way of going about deciding WHERE and to WHOM I should send my Messages.... but I find it works for me.
+
+All that really matters for now is to recognize =>
+* Does my message require a response? This is important, you should specify that if no response is needed, otherwise people will potentially waste time and resources "attending" to your message when in fact it does not require attending to..
+* What is the level of Urgency? If it's an emergency just Yell Fire. Never second guess, there has to be a "Panic Button" in my book, an alarm that can be set off.
+* Otherwise some messages are more or less just "Keepalive" messages => i.e., phatic messages, small talk, or else messages just meant to ensure the Channel is still open and clear.. like saying "TestingTesting123" into the microphone.. just to ensure the channel is still open and all is clear..
+
+In any case, to me there has to be places for each type of signal/message... It's good to have a chat box open somewhere where we can send instant messages, in the case of emergencies.. I mean you might not think of it, but what if I got really sick and had to be hospitalized? I'd like to be able to send a message to the whole group, letting you know when I think I'll be back or whatnot..
+
+Those are important messages, Urgent, and Emergency in this case, a.k.a. Alarm msg. But the system works for deciding WHERE and TO WHOM to send messages...
+
+If it is more "philosophical", I can decide it's Not Urgent and Requires No Response, Action, or Resource (Deployment), therefore I can just post it in a Hackpad or wherever.. or keep notes on my Desktop.
+
+I realize that most of this will be taken care of on the Website... I just think it's a useful conversation to have, since already there have been abuses in the Chat box on Facebook (instant messenger). Those things have to be clear... If it's not Urgent, think about whether you even need to bother messaging people.. that's my personal problem, I have trouble keeping my mouth shut.. the idea I think in the end is that the team becomes really RESPONSIVE and a "Reactive" enterprise, organization, etc. We need to be like First Responders... but in a different kind of Field...
