@@ -126,6 +126,7 @@ SYNTHESIS IN C
 * [ebuswell/sonicmaths] (https://github.com/ebuswell/sonicmaths)
 * [TravisWhitaker/libADSR] (https://github.com/TravisWhitaker/libADSR)
 * [zachsnyder1/melodyARG] (https://github.com/zachsnyder1/melodyARG)
+* [zachsnyder1/jamboard] (https://github.com/zachsnyder1/jamboard)
 * [nightshining/ofxGenSound] (https://github.com/nightshining/ofxGenSound)
 * [lynxed/other] (https://github.com/lynxed/other)
 * [hodefoting/lyd] (https://github.com/hodefoting/lyd)
