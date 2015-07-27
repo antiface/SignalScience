@@ -32,3 +32,21 @@ DSP FORKS
 * [antiface/libsim] (https://github.com/antiface/libsim)
 * [antiface/sdrdsp-protos] (https://github.com/antiface/sdrdsp-protos)
 * [antiface/phase-vocoder] (https://github.com/antiface/phase-vocoder)
+
+SYNTHESIS IN OCTAVE/MATLAB
+==========================
+* [Jannis/octave-dsp-experiments] (https://github.com/Jannis/octave-dsp-experiments)
+* [3spds/octave-scripts] (https://github.com/3spds/octave-scripts)
+* [audiopoison/octave-scripts] (https://github.com/audiopoison/octave-scripts)
+* [Rocaloid/Wavetave] (https://github.com/Rocaloid/Wavetave)
+* [JMLjml/CMSC465] (https://github.com/JMLjml/CMSC465)
+* [digibird1/FIRFilter] (https://github.com/digibird1/FIRFilter)
+* [kunaljathal/Sound-Synthesis] (https://github.com/kunaljathal/Sound-Synthesis)
+* [sfstoolbox/sfs] (https://github.com/sfstoolbox/sfs)
+* [wang-ps/TextureSynthesis] (https://github.com/wang-ps/TextureSynthesis)
+* [kozanoglu/SoundSynthesisWithSinusodialModel] (https://github.com/kozanoglu/SoundSynthesisWithSinusodialModel)
+* [giaesp/MSound] (https://github.com/giaesp/MSound)
+* [PatrickBuhagiar/A-Photo-Sketch-and-Sketch-Photo-Synthesis-using-Markov-Random-Fie] (https://github.com/PatrickBuhagiar/A-Photo-Sketch-and-Sketch-Photo-Synthesis-using-Markov-Random-Fie)
+* [snormanhaignere/general-audio-code] (https://github.com/snormanhaignere/general-audio-code)
+* [danhouwen/simple-sine-synth] (https://github.com/danhouwen/simple-sine-synth)
+* [notthetup/trafficnoisesms] (https://github.com/notthetup/trafficnoisesms)
