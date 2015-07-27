@@ -90,7 +90,7 @@ SYNTHESIS IN JAVASCRIPT
 * [sgoudie/synth_1] (https://github.com/sgoudie/synth_1)
 * [wippler/groove-it] (https://github.com/wippler/groove-it)
 * [tdresser/webaudioplayground] (https://github.com/tdresser/webaudioplayground)
-* [stk.js/sinewave.js at master · akx/stk.js] (https://github.com/akx/stk.js/blob/master/src/generators/sinewave.js)
+* [akx/stk.js] (https://github.com/akx/stk.js)
 * [ericrosenbaum/tone-synth-extension] (https://github.com/ericrosenbaum/tone-synth-extension)
 * [othercriteria/zendoremi] (https://github.com/othercriteria/zendoremi)
 * [narnau/binauralModeled] (https://github.com/narnau/binauralModeled)
