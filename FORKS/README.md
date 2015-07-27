@@ -97,3 +97,10 @@ SYNTHESIS IN JAVASCRIPT
 * [prtcl/birds] (https://github.com/prtcl/birds)
 * [thegrtman/soundcollective] (https://github.com/thegrtman/soundcollective)
 * [scottstensland/webgl-3d-animation] (https://github.com/scottstensland/webgl-3d-animation)
+
+SYNTHESIS IN R
+==============
+* [JMT2080AD/Transwave-Synthesis] (https://github.com/JMT2080AD/Transwave-Synthesis)
+* [cran/seewave] (https://github.com/cran/seewave)
+* [Dasonk/SOWAS] (https://github.com/Dasonk/SOWAS)
+* [petercraigmile/GSSM] (https://github.com/petercraigmile/GSSM)
