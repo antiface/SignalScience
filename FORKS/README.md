@@ -104,3 +104,4 @@ SYNTHESIS IN R
 * [cran/seewave] (https://github.com/cran/seewave)
 * [Dasonk/SOWAS] (https://github.com/Dasonk/SOWAS)
 * [petercraigmile/GSSM] (https://github.com/petercraigmile/GSSM)
+* [JMT2080AD/gridGenerate.r] (https://github.com/JMT2080AD/gridGenerate.r)
