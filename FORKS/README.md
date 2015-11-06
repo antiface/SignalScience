@@ -142,3 +142,16 @@ SYNTHESIS IN C
 * [zhemao/audiotools] (https://github.com/zhemao/audiotools)
 * [imclab/libAudio3D] (https://github.com/imclab/libAudio3D)
 * [NadineKroher/BinauralSim] (https://github.com/NadineKroher/BinauralSim)
+
+DISTRIBUTED POWER CONTROL / COGNITIVE RADIO IN PYTHON
+=====================================================
+* [antiface/bobcat](https://github.com/antiface/bobcat)
+* [antiface/gr-dt](https://github.com/antiface/gr-dt)
+* [antiface/Cognitive-Radio](https://github.com/antiface/Cognitive-Radio)
+* [antiface/mobilitysim](https://github.com/antiface/mobilitysim)
+* [antiface/spectral](https://github.com/antiface/spectral)
+* [antiface/OpERA](https://github.com/antiface/OpERA)
+* [antiface/BasicCR](https://github.com/antiface/BasicCR)
+* [antiface/grotarapi](https://github.com/antiface/grotarapi)
+* [antiface/rendezvoussim](https://github.com/antiface/rendezvoussim)
+* [antiface/gr-ofdm_tools](https://github.com/antiface/gr-ofdm_tools)
