@@ -1,3 +1,3 @@
 ###Signals and Communication - PROBLEMS
-Ex.
-* Rendezvous problem
+* Rendezvous problem;
+* Time complexity;
